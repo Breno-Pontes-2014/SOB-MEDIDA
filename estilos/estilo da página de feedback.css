@@ -1,9 +1,9 @@
 @charset "UTF-8";
-
-h1{
-    text-align: center;
-}
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to left, rgb(173, 216, 230),rgb(211, 211, 211));
-}
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+  }
+  
