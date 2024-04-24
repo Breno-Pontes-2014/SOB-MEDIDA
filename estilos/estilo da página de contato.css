@@ -4,6 +4,8 @@ h1{
     text-align: center;
 }
 body{
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to left, rgb(173, 216, 230),rgb(211, 211, 211));
-}
+    font-weight: bold;
+    background-color: lightgray;
+  }
