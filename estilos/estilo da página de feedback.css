@@ -45,8 +45,16 @@ form  .item-de-formulário{
   height: 50px;
   width: 400px;
 }
-
-
+button.Botão-de-enviar{
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.Botão-de-limpar{
+  color: white;
+  padding: 5px;
+  margin: 5px;  
+}
 
 
 
