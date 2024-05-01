@@ -3,16 +3,16 @@
 
 
 :root {
-    --cor0: #744df4;
-    --cor1: #e86be8;
-    --cor2: #B26BE8;
-    --cor3: #4654ec;
-    --cor4: #da2d95;
-    --cor5: #329ee6;
+    --cor0: #ebe5c5;
+    --cor1: #6140A3;
+    --cor2: #693485;
+    --cor3: #2776A3;
+    --cor4: #2F6EF9;
+    --cor5: #193B85;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-}
+}#693485
 
 * {
     margin: 0px;
