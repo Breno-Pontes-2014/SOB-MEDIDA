@@ -21,6 +21,12 @@ a{
     text-decoration: underline;
     color: black;
 }
+a:hover{
+    transition-duration: .5s;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
 header{
     background-color: var(--cor4);
     color:white;
