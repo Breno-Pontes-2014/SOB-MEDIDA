@@ -1,15 +1,24 @@
 @charset "UTF-8";
+:root {
+    --cor0: #ebe5c5;
+    --cor1: #6140A3;
+    --cor2: #693485;
+    --cor3: #2776A3;
+    --cor4: #2F6EF9;
+    --cor5: #193B85;
 
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neue', cursive;
+}
 h1{
     text-align: center;
 }
-body{
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bold;
+body {
+    background-color: var(--cor0);
+    font-family: var(--fonte-padrao);
 }
 a{
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
 }
 main{
