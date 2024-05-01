@@ -73,8 +73,13 @@ nav > button{
     font-weight: bold;
     transition-duration: .5s;
 }
+nav > button > a{
+    color: white;
+    text-decoration: none;
+}
 
 nav > button:hover{
+    text-decoration: none;
     background-color: var(--cor3);
     color: var(--cor5);
 }
