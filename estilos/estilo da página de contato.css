@@ -22,7 +22,8 @@
 button{
     border-radius: 5px;
     padding: 5px;
-    margin: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     color:black;
     background-color: var(--cor0);
 }
