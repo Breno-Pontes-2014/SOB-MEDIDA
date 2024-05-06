@@ -4,6 +4,15 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+button{
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  color:black;
+  background-color: var(--cor0);
+}
+
 body{
   background-color: #ce96f9;
   min-height: 100vh;
