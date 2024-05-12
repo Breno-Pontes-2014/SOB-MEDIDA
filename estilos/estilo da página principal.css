@@ -125,20 +125,33 @@ main p {
 }
 
 main strong {
-    color: var(--cor4);
+    color: white;
+    background-color: var(--cor4);
     font-weight: bolder;
 }
 
-main a {
+main > button{
+    color: var(--cor1);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
-    color: var(--cor5);
-    padding: 2px 6px;
+    transition-duration: .5s;
+}
+main > button > a{
+    color: black;
+    text-decoration: none;
+    transition-duration: .5s;
+}
+main > button > a:hover{
+    color: white;
 }
 
-main a:hover {
-    text-decoration: underline;
-    color: var(--cor3);
+main > button:hover{
+    text-decoration: none;
+    background-color: var(--cor3);
+    color: var(--cor5);
 }
 
 main img {
